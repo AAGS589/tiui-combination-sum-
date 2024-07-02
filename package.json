@@ -12,6 +12,9 @@
   "author": "Alejandro López Ramírez <alejandro.lopez@tiui.mx>",
   "license": "MIT",
   "devDependencies": {
+    "@babel/core": "^7.24.7",
+    "@babel/preset-env": "^7.24.7",
+    "babel-jest": "^29.7.0",
     "husky": "^4.2.1",
     "jest": "^24.9.0"
   },
